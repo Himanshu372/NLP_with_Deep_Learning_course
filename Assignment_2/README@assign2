@@ -1,0 +1,8 @@
+Instructions for executing 2nd assingment
+
+1. word2vec.py - First implemented sigmoid function in the file, then implemented loss and gradients for the Naive softmax word2vec model and Negtive sampling word2vec model. This can be tested by running word2vec.py file.
+2. sgd.py - Implemented a small chunk in the sgd function, where input(x) changes based upon gradient given by model implemented in word2vec.py.
+3. run.py - No code implemented here, just need to run 'python run.py', which will start training samples on word2vec model and give visualization for small sample taken in the file.
+
+
+
